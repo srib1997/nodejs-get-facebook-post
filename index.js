@@ -1,4 +1,6 @@
 var graph = require('fbgraph')
+const dotenv = require("dotenv")
+dotenv.config()
 
 const access_token = process.env.ACCESS_TOKEN
 

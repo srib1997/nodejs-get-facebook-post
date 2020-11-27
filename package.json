@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts":{
+  "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "fbgraph": "^1.4.4"
   }
 }
