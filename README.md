@@ -27,7 +27,7 @@ SELECT 番自己的專頁
 用户的 TOKEN 就是剛剛上面生產的 token，用依個方式可以知道自己的 userid
 
 ```
-https://graph.facebook.com/me?fields=id&access_token=用户的TOKEN
+https://graph.facebook.com/me?fields=id&access_token={用户的TOKEN}
 ```
 
 ---
