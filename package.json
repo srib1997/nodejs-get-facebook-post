@@ -1,0 +1,12 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fbgraph": "^1.4.4"
+  }
+}
